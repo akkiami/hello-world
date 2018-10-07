@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hello people of the world!
+
+life finds a way!
